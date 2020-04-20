@@ -1,9 +1,9 @@
 DigimonCardGame	04-20-20
-plugins/Digimon-Card-Game/version.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/version.txt	0
+plugins/Digimon-Card-Game/version.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/version.txt	38865
 plugins/Digimon-Card-Game/plugininfo.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/plugininfo.txt	360883
-plugins/Digimon-Card-Game/uninstall.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/uninstall.txt	0
-plugins/Digimon-Card-Game/changelog.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/changelog.txt	0
-plugins/Digimon-Card-Game/pluginpreferences.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/pluginpreferences.txt	282689
+plugins/Digimon-Card-Game/uninstall.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/uninstall.txt	7070
+plugins/Digimon-Card-Game/changelog.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/changelog.txt	4206
+plugins/Digimon-Card-Game/pluginpreferences.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/pluginpreferences.txt	286981
 plugins/Digimon-Card-Game/spawned.png	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/spawned.png	-24643
 plugins/Digimon-Card-Game/bot.jpg	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/bot.jpg	255023
 plugins/Digimon-Card-Game/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/general/cardback.jpg	291228

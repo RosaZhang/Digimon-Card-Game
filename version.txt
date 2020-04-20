@@ -5,6 +5,6 @@
 
 <updateurl>https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/updatelist.txt</updateurl>
 
-<message>New Cards from Movie Kizuna. Change log: https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/changelog.txt</message>
+<message>New Digimon Card Game. Change log: https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/changelog.txt</message>
 
 </version>

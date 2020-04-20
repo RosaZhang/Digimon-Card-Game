@@ -1,3 +1,3 @@
-CHANGELOG DigimonHC plugin
+CHANGELOG Digimon-Card-Game plugin
 
-Kizuna Cards Added, set is called KIZU.
+Early Version

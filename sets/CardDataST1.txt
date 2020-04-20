@@ -1,0 +1,17 @@
+Name	Set	ImageFile	Card Type	Color	Level	Play Cost	Evolution Cost	DP	Digimon Type	Attribute	Stage	Main Effect	Source Effect	Shield Effect	script
+Koromon	ST1	ST1-01	Digitama	Red	2				Lesser		Baby		[Your Turn] As long as this Digimon has 4 or more Evolution Bases, this Digimon gets +1000 DP.		
+Piyomon	ST1	ST1-02	Digimon	Red	3	2	0	3000	Chick	Vaccine	Child				
+Agumon	ST1	ST1-03	Digimon	Red	3	3	0	2000	Reptile	Vaccine	Child		[Your Turn] This Digimon gets +1000 DP.		
+Dracomon	ST1	ST1-04	Digimon	Red	3	3	0	4000	Dragon	Data	Child				
+Birdramon	ST1	ST1-05	Digimon	Red	4	4	2	5000	Giant Bird	Vaccine	Adult				
+Coredramon	ST1	ST1-06	Digimon	Red	4	5	2	6000	Dragon	Virus	Adult	[Blocker] (When the opponent Digimon performs an attack, if this Digimon is in the Active position, you may Rest this Digimon and change the target of the attack to this Digimon). When Attacking Memory -2.			
+Greymon	ST1	ST1-07	Digimon	Red	4	5	2	4000	Dinosaur	Vaccine	Adult		[Security Attack + 1] (The number of cards this Digimon Checks when attacking Security increases by 1).		
+Garudamon	ST1	ST1-08	Digimon	Red	5	6	3	7000	Bird Man	Vaccine	Perfect	[During Evolution] Choose one of your Digimon; that Digimon gets +3000 DP for the rest of this turn.			
+Metal Greymon	ST1	ST1-09	Digimon	Red	5	7	3	7000	Cyborg	Vaccine	Perfect		[Your Turn] When this Digimon is blocked, Memory +3.		
+Hououmon	ST1	ST1-10	Digimon	Red	6	10	2	12000	Holy Beast	Vaccine	Ultimate				/ch
+War Greymon	ST1	ST1-11	Digimon	Red	6	12	4	12000	Dragon Man	Vaccine	Ultimate	[Your Turn] For every 2 Evolution Bases this Digimon has, this Digimon gains [Security Attack + 1] (The number of cards this Digimon Checks when attacking Security increases by 1).			/ch
+Yagami Taichi	ST1	ST1-12	Tamer	Red		2						[Your Turn] All of your Digimon get +1000 DP.		[Security] Enter this card without paying its Cost.	
+Shadow Wing	ST1	ST1-13	Option	Red		1						[Main] Choose one of your Digimon; that Digimon gets +3000 DP for the rest of this turn.		[Security] All of your Digimon gain [Security Attack + 1] (The number of cards this Digimon Checks when attacking Security increases by 1) until the end of your next turn.	
+Starlight Explosion	ST1	ST1-14	Option	Red		2						[Main] All of your Security Digimon get +7000 DP until the end of the opponent's next turn.		[Security] All of your Security Digimon get +7000 DP for the rest of this turn.	
+Giga Destroyer	ST1	ST1-15	Option	Red		6						[Main] Destroy up to 2 opponent Digimon whose DP is 4000 or below.		[Security] Activate this card's [Main] effect.	
+Gaia Force	ST1	ST1-16	Option	Red		8						[Main] Destroy 1 opponent Digimon.		[Security] Activate this card's Main effect.	

@@ -1,0 +1,11 @@
+Name	Set	ImageFile	Card Type	Color	Level	Play Cost	Evolution Cost	DP	Digimon Type	Attribute	Stage	Main Effect	Source Effect	Shield Effect	script
+Agumon	PROMO	P-001	Digimon	Red	3	5	0	3000	Reptile	Vaccine	Child	[During Entry] Destroy 1 opponent Digimon whose DP is 3000 or lower.			
+Piyomon	PROMO	P-002	Digimon	Red	3	3	0	2000	Chick	Vaccine	Child		[Your Turn] If this Digimon enters a battle and the opponent Digimon is the only Digimon destroyed, [Draw 1] (Draw 1 card from your Deck).		
+Gabumon	PROMO	P-003	Digimon	Blue	4	4	0	3000	Reptile	Data	Child	[During Entry] Choose 1 opponent Digimon and discard its bottom-most Evolution Base.			
+Gomamon	PROMO	P-004	Digimon	Blue	3	3	0	1000	Marine Animal	Vaccine	Child		[Your Turn] (Once Per Turn) When you discard an opponent Digimon's Evolution Base, Memory +1.		
+Patamon	PROMO	P-005	Digimon	Yellow	3	4	0	2000	Mammal	Data	Child	[During Entry] If you have 1 card or less remaining in your Security, [Recovery + 1] (Deck) (Take 1 card from the top of your Deck and place it onto Security).			
+Tailmon	PROMO	P-006	Digimon	Yellow	4	4	2	4000	Holy Beast	Vaccine	Adult		[Your Turn] As long as you have 3 cards or more remaining in your Security, this Digimon gets +1000 DP.		
+Garurumon	PROMO	P-007	Digimon	Blue	3	4	2	4000	Beast	Vaccine	Adult		[When Attacking] If this Digimon's name contains [Garurumon], [Draw 1] (Draw 1 card from your Deck).		
+Were Garurumon	PROMO	P-008	Digimon	Blue	5	7	3	6000	Beast Man	Vaccine	Perfect	[When Attacking] (Once per Turn) If there is a [Garurumon] in this Digimon's Evolution Bases, turn this Digimon Active.	[Your Turn] As long as you have 8 cards or more in your hand, this Digimon gains [Security Attack + 1] (The number of cards this Digimon Checks when attacking Security increases by 1).		
+Agumon (2)	PROMO	P-009	Digimon	Red	3	3	0	2000	Reptile	Vaccine	Child		[Your Turn] As long as this Digimon's name contains [Greymon], this Digimon gets +2000 DP.		
+Greymon	PROMO	P-010	Digimon	Red	4	5	2	5000	Dinosaur	Vaccine	Adult	[Your Turn] As long as there is an [Agumon] in this Digimon's Evolution Bases, this Digimon gains [Security Attack + 1] (The number of cards this Digimon Checks when attacking Security increases by 1).			

@@ -1,0 +1,17 @@
+Name	Set	ImageFile	Card Type	Color	Level	Play Cost	Evolution Cost	DP	Digimon Type	Attribute	Stage	Main Effect	Source Effect	Shield Effect	script
+Tokomon	ST3	ST3-01	Digitama	Yellow	2				Lesser		Baby		[Your Turn] (Once per Turn) When an opponent Digimon's DP reaches 0, causing it to be destroyed, this Digimon gets +1000 DP for the rest of this turn.		
+Plotmon 	ST3	ST3-02	Digimon	Yellow	3	3	0	3000	Mammal	Vaccine	Child				
+Bakumon	ST3	ST3-03	Digimon	Yellow	3	2	0	4000	Holy Beast	Vaccine	Child				
+Patamon 	ST3	ST3-04	Digimon 	Yellow 	3	3	0	1000	Mammal	Vaccine	Child		[Your Turn] (Once per Turn) When an opponent Digimon's DP reaches 0, causing it to be destroyed, Memory +1.		
+Angemon	ST3	ST3-05	Digimon	Yellow	4	5	2	4000	Angel	Vaccine	Adult		[When Attacking] If you have 4 cards or more remaining in your Security, Memory +1.		
+Tailmon	ST3	ST3-06	Digimon	Yellow	4	4	2	5000	Holy Beast	Vaccine	Adult				
+Unimon	ST3	ST3-07	Digimon	Yellow	4	5	2	4000	Mythical Beast	Vaccine	Adult	[Blocker] (When the opponent Digimon performs an attack, if this Digimon is in the Active position, you may Rest this Digimon and change the target of the attack to this Digimon). [When Attacking] Memory -2.			
+Holy Angemon	ST3	ST3-08	Digimon	Yellow	5	7	3	7000	Archangel	Vaccine	Perfect		[When Attacking] Choose 1 opponent Digimon; that Digimon gets -1000 DP for the rest of this turn.		
+Angewomon	ST3	ST3-09	Digimon	Yellow	5	6	3	7000	Archangel	Vaccine	Perfect	[During Evolution] If you have 3 cards or less remaining in your [Security, Recovery + 1] (Deck) (Take 1 card from the top of your Deck and place it onto Security).			
+Holydramon	ST3	ST3-10	Digimon	Yellow	6	10	2	12000	Holy Dragon	Vaccine	Ultimate				/ch
+Seraphimon	ST3	ST3-11	Digimon	Yellow	6	12	4	10000	Seraph	Vaccine	Ultimate	[When Attacking] Choose 1 opponent Digimon; that Digimon gets -4000 DP for the rest of this turn.			/ch
+Takaishi Takeru	ST3	ST3-12	Tamer	Yellow		2						[Opponent's Turn] All of your Security Digimon get +2000 DP.		[Security] Enter this card without paying its Cost.	
+Heaven’s Gate	ST3	ST3-13	Option	Yellow		1						[Main] Choose 1 of your Digimon; that Digimon gets +3000 DP for the rest of this turn.		[Security] All of your Digimon and Security Digimon get +5000 DP for the rest of this turn. After that, add this card to your hand.	
+Heaven’s Charm	ST3	ST3-14	Option	Yellow		2						[Main] Choose 1 opponent Digimon; that Digimon gets -2000 DP for the rest of this turn.		[Security] Add this card to your hand.	
+Holy Flame	ST3	ST3-15	Option	Yellow		2						[Main] Choose 1 opponent Digimon; that Digimon gains [Security Attack – 3] (The number of cards this Digimon Checks when attacking Security decreases by 3) until the end of the opponent's next turn.		[Security] All of the opponent Digimon gain Security Attack - 1 (The number of cards this Digimon Checks when attacking Security decreases by 1) for the rest of this turn.	
+Seven Heavens	ST3	ST3-16	Option	Yellow		2						[Main] Choose 1 opponent Digimon; that Digimon gets -10000 DP for the rest of this turn.		[Security] Activate this card's Main effect.	

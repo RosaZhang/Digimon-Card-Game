@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCardGame</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="st2-02.jpg">Gomamon</name><set>ST2-02</set></card>
+		<card><name id="st2-02.jpg">Gomamon</name><set>ST2-02</set></card>
+		<card><name id="st2-02.jpg">Gomamon</name><set>ST2-02</set></card>
+		<card><name id="st2-02.jpg">Gomamon</name><set>ST2-02</set></card>
+		<card><name id="st2-03.jpg">Gabumon</name><set>ST2-03</set></card>
+		<card><name id="st2-03.jpg">Gabumon</name><set>ST2-03</set></card>
+		<card><name id="st2-03.jpg">Gabumon</name><set>ST2-03</set></card>
+		<card><name id="st2-03.jpg">Gabumon</name><set>ST2-03</set></card>
+		<card><name id="st2-04.jpg">Bearmon</name><set>ST2-04</set></card>
+		<card><name id="st2-04.jpg">Bearmon</name><set>ST2-04</set></card>
+		<card><name id="st2-04.jpg">Bearmon</name><set>ST2-04</set></card>
+		<card><name id="st2-04.jpg">Bearmon</name><set>ST2-04</set></card>
+		<card><name id="st2-05.jpg">Ikakkumon</name><set>ST2-05</set></card>
+		<card><name id="st2-05.jpg">Ikakkumon</name><set>ST2-05</set></card>
+		<card><name id="st2-05.jpg">Ikakkumon</name><set>ST2-05</set></card>
+		<card><name id="st2-05.jpg">Ikakkumon</name><set>ST2-05</set></card>
+		<card><name id="st2-06.jpg">Garurumon</name><set>ST2-06</set></card>
+		<card><name id="st2-06.jpg">Garurumon</name><set>ST2-06</set></card>
+		<card><name id="st2-07.jpg">Grizzmon</name><set>ST2-07</set></card>
+		<card><name id="st2-07.jpg">Grizzmon</name><set>ST2-07</set></card>
+		<card><name id="st2-07.jpg">Grizzmon</name><set>ST2-07</set></card>
+		<card><name id="st2-07.jpg">Grizzmon</name><set>ST2-07</set></card>
+		<card><name id="st2-08.jpg">Were Garurumon</name><set>ST2-08</set></card>
+		<card><name id="st2-08.jpg">Were Garurumon</name><set>ST2-08</set></card>
+		<card><name id="st2-08.jpg">Were Garurumon</name><set>ST2-08</set></card>
+		<card><name id="st2-08.jpg">Were Garurumon</name><set>ST2-08</set></card>
+		<card><name id="st2-09.jpg">Zudomon</name><set>ST2-09</set></card>
+		<card><name id="st2-09.jpg">Zudomon</name><set>ST2-09</set></card>
+		<card><name id="st2-09.jpg">Zudomon</name><set>ST2-09</set></card>
+		<card><name id="st2-09.jpg">Zudomon</name><set>ST2-09</set></card>
+		<card><name id="st2-10.jpg">Plesiomon</name><set>ST2-10</set></card>
+		<card><name id="st2-10.jpg">Plesiomon</name><set>ST2-10</set></card>
+		<card><name id="st2-11.jpg">Metal Garurumon</name><set>ST2-11</set></card>
+		<card><name id="st2-11.jpg">Metal Garurumon</name><set>ST2-11</set></card>
+		<card><name id="st2-12.jpg">Ishida Yamato</name><set>ST2-12</set></card>
+		<card><name id="st2-12.jpg">Ishida Yamato</name><set>ST2-12</set></card>
+		<card><name id="st2-12.jpg">Ishida Yamato</name><set>ST2-12</set></card>
+		<card><name id="st2-12.jpg">Ishida Yamato</name><set>ST2-12</set></card>
+		<card><name id="st2-13.jpg">Hammer Spark</name><set>ST2-13</set></card>
+		<card><name id="st2-13.jpg">Hammer Spark</name><set>ST2-13</set></card>
+		<card><name id="st2-13.jpg">Hammer Spark</name><set>ST2-13</set></card>
+		<card><name id="st2-13.jpg">Hammer Spark</name><set>ST2-13</set></card>
+		<card><name id="st2-14.jpg">Sorrow Blue</name><set>ST2-14</set></card>
+		<card><name id="st2-14.jpg">Sorrow Blue</name><set>ST2-14</set></card>
+		<card><name id="st2-14.jpg">Sorrow Blue</name><set>ST2-14</set></card>
+		<card><name id="st2-14.jpg">Sorrow Blue</name><set>ST2-14</set></card>
+		<card><name id="kaiser-nail-320x470.jpg">Kaiser Nail</name><set>ST2-15</set></card>
+		<card><name id="kaiser-nail-320x470.jpg">Kaiser Nail</name><set>ST2-15</set></card>
+		<card><name id="cocytus-breath-b-320x470.jpg">Cocytus Breath</name><set>ST2-16</set></card>
+		<card><name id="cocytus-breath-b-320x470.jpg">Cocytus Breath</name><set>ST2-16</set></card>
+	</superzone>
+	<superzone name="Digitama">
+		<card><name id="st2-01.jpg">Tsunomon</name><set>ST2-01</set></card>
+		<card><name id="st2-01.jpg">Tsunomon</name><set>ST2-01</set></card>
+		<card><name id="st2-01.jpg">Tsunomon</name><set>ST2-01</set></card>
+		<card><name id="st2-01.jpg">Tsunomon</name><set>ST2-01</set></card>
+	</superzone>
+</deck>

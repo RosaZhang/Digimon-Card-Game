@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCardGame</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="st3-02.jpg">Plotmon</name><set>ST3-02</set></card>
+		<card><name id="st3-02.jpg">Plotmon</name><set>ST3-02</set></card>
+		<card><name id="st3-02.jpg">Plotmon</name><set>ST3-02</set></card>
+		<card><name id="st3-02.jpg">Plotmon</name><set>ST3-02</set></card>
+		<card><name id="st3-03.jpg">Bakumon</name><set>ST3-03</set></card>
+		<card><name id="st3-03.jpg">Bakumon</name><set>ST3-03</set></card>
+		<card><name id="st3-03.jpg">Bakumon</name><set>ST3-03</set></card>
+		<card><name id="st3-03.jpg">Bakumon</name><set>ST3-03</set></card>
+		<card><name id="st3-04.jpg">Patamon</name><set>ST3-04</set></card>
+		<card><name id="st3-04.jpg">Patamon</name><set>ST3-04</set></card>
+		<card><name id="st3-04.jpg">Patamon</name><set>ST3-04</set></card>
+		<card><name id="st3-04.jpg">Patamon</name><set>ST3-04</set></card>
+		<card><name id="ange.jpg">Angemon</name><set>ST3-05</set></card>
+		<card><name id="ange.jpg">Angemon</name><set>ST3-05</set></card>
+		<card><name id="st3-06.jpg">Tailmon</name><set>ST3-06</set></card>
+		<card><name id="st3-06.jpg">Tailmon</name><set>ST3-06</set></card>
+		<card><name id="st3-06.jpg">Tailmon</name><set>ST3-06</set></card>
+		<card><name id="st3-06.jpg">Tailmon</name><set>ST3-06</set></card>
+		<card><name id="st3-07.jpg">Unimon</name><set>ST3-07</set></card>
+		<card><name id="st3-07.jpg">Unimon</name><set>ST3-07</set></card>
+		<card><name id="st3-07.jpg">Unimon</name><set>ST3-07</set></card>
+		<card><name id="st3-07.jpg">Unimon</name><set>ST3-07</set></card>
+		<card><name id="st3-08.jpg">Holy Angemon</name><set>ST3-08</set></card>
+		<card><name id="st3-08.jpg">Holy Angemon</name><set>ST3-08</set></card>
+		<card><name id="st3-08.jpg">Holy Angemon</name><set>ST3-08</set></card>
+		<card><name id="st3-08.jpg">Holy Angemon</name><set>ST3-08</set></card>
+		<card><name id="angewomon-320x470.jpg">Angewomon</name><set>ST3-09</set></card>
+		<card><name id="angewomon-320x470.jpg">Angewomon</name><set>ST3-09</set></card>
+		<card><name id="angewomon-320x470.jpg">Angewomon</name><set>ST3-09</set></card>
+		<card><name id="angewomon-320x470.jpg">Angewomon</name><set>ST3-09</set></card>
+		<card><name id="st3-10.jpg">Holydramon</name><set>ST3-10</set></card>
+		<card><name id="st3-10.jpg">Holydramon</name><set>ST3-10</set></card>
+		<card><name id="st3-11.jpg">Seraphimon</name><set>ST3-11</set></card>
+		<card><name id="st3-11.jpg">Seraphimon</name><set>ST3-11</set></card>
+		<card><name id="st3-12.jpg">Takaishi Takeru</name><set>ST3-12</set></card>
+		<card><name id="st3-12.jpg">Takaishi Takeru</name><set>ST3-12</set></card>
+		<card><name id="st3-12.jpg">Takaishi Takeru</name><set>ST3-12</set></card>
+		<card><name id="st3-12.jpg">Takaishi Takeru</name><set>ST3-12</set></card>
+		<card><name id="heavensgate.jpg">Heaven&apos;s Gate</name><set>ST3-13</set></card>
+		<card><name id="heavensgate.jpg">Heaven&apos;s Gate</name><set>ST3-13</set></card>
+		<card><name id="heavensgate.jpg">Heaven&apos;s Gate</name><set>ST3-13</set></card>
+		<card><name id="heavensgate.jpg">Heaven&apos;s Gate</name><set>ST3-13</set></card>
+		<card><name id="st3-14.jpg">Heaven&apos;s Charm</name><set>ST3-14</set></card>
+		<card><name id="st3-14.jpg">Heaven&apos;s Charm</name><set>ST3-14</set></card>
+		<card><name id="st3-15.jpg">Holy Flame</name><set>ST3-15</set></card>
+		<card><name id="st3-15.jpg">Holy Flame</name><set>ST3-15</set></card>
+		<card><name id="st3-15.jpg">Holy Flame</name><set>ST3-15</set></card>
+		<card><name id="st3-15.jpg">Holy Flame</name><set>ST3-15</set></card>
+		<card><name id="st3-16-320x470.jpg">Seven Heavens</name><set>ST3-16</set></card>
+		<card><name id="st3-16-320x470.jpg">Seven Heavens</name><set>ST3-16</set></card>
+	</superzone>
+	<superzone name="Digitama">
+		<card><name id="st3-01.jpg">Tokomon</name><set>ST3-01</set></card>
+		<card><name id="st3-01.jpg">Tokomon</name><set>ST3-01</set></card>
+		<card><name id="st3-01.jpg">Tokomon</name><set>ST3-01</set></card>
+		<card><name id="st3-01.jpg">Tokomon</name><set>ST3-01</set></card>
+	</superzone>
+</deck>

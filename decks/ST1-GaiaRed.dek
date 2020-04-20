@@ -1,0 +1,63 @@
+<deck version="0.8">
+	<meta>
+		<game>DigimonCardGame</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="st1-04.jpg">Dracomon</name><set>ST1-02</set></card>
+		<card><name id="st1-04.jpg">Dracomon</name><set>ST1-02</set></card>
+		<card><name id="st1-04.jpg">Dracomon</name><set>ST1-02</set></card>
+		<card><name id="st1-04.jpg">Dracomon</name><set>ST1-02</set></card>
+		<card><name id="st1-03.jpg">Agumon</name><set>ST1-03</set></card>
+		<card><name id="st1-03.jpg">Agumon</name><set>ST1-03</set></card>
+		<card><name id="st1-03.jpg">Agumon</name><set>ST1-03</set></card>
+		<card><name id="st1-03.jpg">Agumon</name><set>ST1-03</set></card>
+		<card><name id="st1-02.jpg">Piyomon</name><set>ST1-04</set></card>
+		<card><name id="st1-02.jpg">Piyomon</name><set>ST1-04</set></card>
+		<card><name id="st1-02.jpg">Piyomon</name><set>ST1-04</set></card>
+		<card><name id="st1-02.jpg">Piyomon</name><set>ST1-04</set></card>
+		<card><name id="st1-05.jpg">Birdramon</name><set>ST1-05</set></card>
+		<card><name id="st1-05.jpg">Birdramon</name><set>ST1-05</set></card>
+		<card><name id="st1-05.jpg">Birdramon</name><set>ST1-05</set></card>
+		<card><name id="st1-05.jpg">Birdramon</name><set>ST1-05</set></card>
+		<card><name id="st1-06.jpg">Coredramon</name><set>ST1-06</set></card>
+		<card><name id="st1-06.jpg">Coredramon</name><set>ST1-06</set></card>
+		<card><name id="st1-06.jpg">Coredramon</name><set>ST1-06</set></card>
+		<card><name id="st1-06.jpg">Coredramon</name><set>ST1-06</set></card>
+		<card><name id="st1-07.jpg">Greymon</name><set>ST1-07</set></card>
+		<card><name id="st1-07.jpg">Greymon</name><set>ST1-07</set></card>
+		<card><name id="st1-08.jpg">Garudamon</name><set>ST1-08</set></card>
+		<card><name id="st1-08.jpg">Garudamon</name><set>ST1-08</set></card>
+		<card><name id="st1-08.jpg">Garudamon</name><set>ST1-08</set></card>
+		<card><name id="st1-08.jpg">Garudamon</name><set>ST1-08</set></card>
+		<card><name id="st1-09.jpg">Metal Greymon</name><set>ST1-09</set></card>
+		<card><name id="st1-09.jpg">Metal Greymon</name><set>ST1-09</set></card>
+		<card><name id="st1-09.jpg">Metal Greymon</name><set>ST1-09</set></card>
+		<card><name id="st1-09.jpg">Metal Greymon</name><set>ST1-09</set></card>
+		<card><name id="st1-10.jpg">Hououmon</name><set>ST1-10</set></card>
+		<card><name id="st1-10.jpg">Hououmon</name><set>ST1-10</set></card>
+		<card><name id="st1-11.jpg">War Greymon</name><set>ST1-11</set></card>
+		<card><name id="st1-11.jpg">War Greymon</name><set>ST1-11</set></card>
+		<card><name id="st1-12.jpg">Yagami Taichi</name><set>ST1-12</set></card>
+		<card><name id="st1-12.jpg">Yagami Taichi</name><set>ST1-12</set></card>
+		<card><name id="st1-12.jpg">Yagami Taichi</name><set>ST1-12</set></card>
+		<card><name id="st1-12.jpg">Yagami Taichi</name><set>ST1-12</set></card>
+		<card><name id="st1-13.jpg">Shadow Wing</name><set>ST1-13</set></card>
+		<card><name id="st1-13.jpg">Shadow Wing</name><set>ST1-13</set></card>
+		<card><name id="st1-13.jpg">Shadow Wing</name><set>ST1-13</set></card>
+		<card><name id="st1-13.jpg">Shadow Wing</name><set>ST1-13</set></card>
+		<card><name id="st1-14.jpg">Starlight Explosion</name><set>ST1-14</set></card>
+		<card><name id="st1-14.jpg">Starlight Explosion</name><set>ST1-14</set></card>
+		<card><name id="st1-14.jpg">Starlight Explosion</name><set>ST1-14</set></card>
+		<card><name id="st1-14.jpg">Starlight Explosion</name><set>ST1-14</set></card>
+		<card><name id="giga-destroyer-320x470.jpg">Giga Destroyer</name><set>ST1-15</set></card>
+		<card><name id="giga-destroyer-320x470.jpg">Giga Destroyer</name><set>ST1-15</set></card>
+		<card><name id="st1-16.jpg">Gaia Force</name><set>ST1-16</set></card>
+		<card><name id="st1-16.jpg">Gaia Force</name><set>ST1-16</set></card>
+	</superzone>
+	<superzone name="Digitama">
+		<card><name id="st1-01.jpg">Koromon</name><set>ST1-01</set></card>
+		<card><name id="st1-01.jpg">Koromon</name><set>ST1-01</set></card>
+		<card><name id="st1-01.jpg">Koromon</name><set>ST1-01</set></card>
+		<card><name id="st1-01.jpg">Koromon</name><set>ST1-01</set></card>
+	</superzone>
+</deck>

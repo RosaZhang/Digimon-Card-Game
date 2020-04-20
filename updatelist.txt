@@ -1,4 +1,4 @@
-DigimonCardGame	04-20-20
+Digimon-Card-Game	04-20-20
 plugins/Digimon-Card-Game/version.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/version.txt	38865
 plugins/Digimon-Card-Game/plugininfo.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/plugininfo.txt	360883
 plugins/Digimon-Card-Game/uninstall.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/uninstall.txt	7070
@@ -7,9 +7,9 @@ plugins/Digimon-Card-Game/pluginpreferences.txt	https://raw.githubusercontent.co
 plugins/Digimon-Card-Game/spawned.png	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/spawned.png	-24643
 plugins/Digimon-Card-Game/bot.jpg	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/bot.jpg	255023
 plugins/Digimon-Card-Game/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/general/cardback.jpg	291228
-plugins/Digimon-Card-Game/sets/CardDataPROMO.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/CardDataLegend.txt	181969
-plugins/Digimon-Card-Game/sets/CardDataST1.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/CardDataStructure.txt	214138
-plugins/Digimon-Card-Game/sets/CardDataST2.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/CardDataVol1-1.txt	236748
-plugins/Digimon-Card-Game/sets/CardDataST3.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/CardDataVol1-2.txt	252683
+plugins/Digimon-Card-Game/sets/CardDataPROMO.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/CardDataPROMO.txt	181969
+plugins/Digimon-Card-Game/sets/CardDataST1.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/CardDataST1.txt	214138
+plugins/Digimon-Card-Game/sets/CardDataST2.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/CardDataST2.txt	236748
+plugins/Digimon-Card-Game/sets/CardDataST3.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/CardDataST3.txt	252683
 CardGeneralURLs:
 https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/sets/general/

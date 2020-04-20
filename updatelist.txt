@@ -1,0 +1,3 @@
+DigimonCardGame	01-13-31
+
+CardGeneralURLs:

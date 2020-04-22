@@ -1,7 +1,7 @@
 <uninstall>
 
-<dateYYMMDD>200420</dateYYMMDD>
+<dateYYMMDD>200422</dateYYMMDD>
 
-<removepath></removepath>
+<removepath>plugins/Digimon-Card-Game/sets/CardDataST3.txt</removepath>
 
 </uninstall>

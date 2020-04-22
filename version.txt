@@ -1,5 +1,5 @@
 <version>
-<lastupdateYYMMDD>200420</lastupdateYYMMDD>
+<lastupdateYYMMDD>200422</lastupdateYYMMDD>
 
 <versionurl>https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/version.txt</versionurl>
 

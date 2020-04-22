@@ -1,4 +1,4 @@
-Digimon-Card-Game	04-20-20
+Digimon-Card-Game	04-22-20
 plugins/Digimon-Card-Game/version.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/version.txt	38865
 plugins/Digimon-Card-Game/plugininfo.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/plugininfo.txt	360883
 plugins/Digimon-Card-Game/uninstall.txt	https://raw.githubusercontent.com/RosaZhang/Digimon-Card-Game/master/uninstall.txt	7070

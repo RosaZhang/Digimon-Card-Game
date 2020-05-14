@@ -1,0 +1,122 @@
+Name	Set	ImageFile	Card Type	Color	Level	Play Cost	Evolution Cost	DP	Digimon Type	Attribute	Stage	Main Effect	Source Effect	Shield Effect	script
+Pyocomon 	BT01	BT1-001 	Digitama	Red 	2				Bulb		Baby		[When Attacking] When attacking an opponent Digimon, this Digimon gets +1000 DP for the rest of this turn.		
+Babydmon 	BT01	BT1-002 	Digitama	Red 	2				Baby Dragon		Baby		[Your Turn] As long as this Digimon has Pierce, this Digimon gets +2000 DP.		
+Upamon 	BT01	BT1-003 	Digitama	Blue 	2				Amphibian		Baby		[When Attacking] (Once per Turn) If there is an opponent Digimon that has no Evolution Bases, (Draw 1) (Draw 1 card from your deck).		
+Wanyamon 	BT01	BT1-004 	Digitama	Blue 	2				Lesser		Baby		[Your Turn] As long as 2 or more opponent Digimon have no Evolution Bases, this Digimon gets +2000 DP. 		
+Kyaromon 	BT01	BT1-005 	Digitama	Yellow 	2				Lesser		Baby		[Your Turn] As long as you have 6 cards or more remaining in your Security, this Digimon gets +2000 DP. 		
+Cupimon 	BT01	BT1-006 	Digitama	Yellow 	2				Small Angel		Baby		[When Attacking] If you have 5 cards or more remaining in your Security, (Draw 1) (Draw 1 card from your deck). 		
+Tanemon 	BT01	BT1-007 	Digitama	Green 	2				Bulb		Baby		[When Attacking] If you had evolved your Digimon 1 or more times during this turn, this Digimon gets +1000 DP for the rest of this turn. 		
+Frimon 	BT01	BT1-008 	Digitama	Green 	2				Lesser		Baby		[Your Turn] As long as 2 or more opponent Digimon are in the Rest position, this Digimon gets +2000 DP. 		
+Monodramon 	BT01	BT1-009 	Digimon	Red 	3	2	0	3000	Small Dragon	Vaccine	Child				
+Agumon 	BT01	BT1-010 	Digimon	Red 	3	3	0	2000	Reptile	Vaccine	Child	[During Entry] Reveal the top 5 cards of your deck, and add 1 Tamer Card among those cards to your hand. Return the remaining cards to the bottom of your deck in any order. 			
+Agumon Hakase 	BT01	BT1-011 	Digimon	Red 	3	3	0	1000	Dinosaur	Vaccine	Child	[During Entry] Return 1 Digimon card containing [Agumon] in its name from your Trash to your hand. 			
+Piyomon 	BT01	BT1-012 	Digimon	Red 	3	3	0	2000	Chick	Vaccine	Child		Your Turn When this Digimon is blocked, this Digimon gets +2000 DP. 		
+Muchomon 	BT01	BT1-013 	Digimon	Red 	3	3	1	5000	Bird	Data	Child				
+Cockatrimon 	BT01	BT1-014 	Digimon	Red 	4	3	2	4000	Bird	Data	Adult				
+Greymon 	BT01	BT1-015 	Digimon	Red 	4	4	2	4000	Dinosaur	Vaccine	Adult		Your Turn This Digimon gets +2000 DP. 		
+Tyranomon 	BT01	BT1-016 	Digimon	Red 	4	4	2	4000	Dinosaur	Data	Adult	[Jamming] (This Digimon cannot be destroyed in a battle with a Security Digimon) 			
+Birdramon 	BT01	BT1-017 	Digimon	Red 	4	4	2	4000	Bird	Vaccine	Adult	[During Entry] Choose one of your Digimon; that Digimon gains (Security Attack + 1) (The number of cards this Digimon Checks when attacking Security increases by 1) for the rest of this turn. 			
+Flare Lizamon 	BT01	BT1-018 	Digimon	Red 	4	5	2	4000	Flame Dragon	Data	Adult	[Your Turn] As long as your Memory is 3 or above, this Digimon gains (Security Attack + 1) (The number of cards this Digimon Checks when attacking Security increases by 1). 			
+Dark Tyranomon 	BT01	BT1-019 	Digimon	Red 	4	6	1	6000	Dinosaur	Virus	Adult				
+Groundramon 	BT01	BT1-020 	Digimon	Red 	5	5	2	6000	Earth Dragon	Virus	Perfect				
+Metal Greymon 	BT01	BT1-021 	Digimon	Red 	5	6	3	7000	Cyborg	Vaccine	Perfect	[When Attacking] Memory +3. At the end of this turn, Memory -3. 			
+Garudamon 	BT01	BT1-022 	Digimon	Red 	5	7	3	7000	Bird Man	Vaccine	Perfect	[Pierce] (When this Digimon attacks and initiates a battle, if the opponent Digimon is the only Digimon destroyed in that battle, this Digimon Checks Security) 	[Your Turn] When this Digimon is blocked, (Draw 1) (Draw 1 card from your deck). 		
+Skull Greymon 	BT01	BT1-023 	Digimon	Red 	5	7	3	7000	Undead	Virus	Perfect	[During Entry] Destroy 1 opponent Digimon that has (Blocker). 			
+Metal Tyranomon 	BT01	BT1-024 	Digimon	Red 	5	7	3	10000	Cyborg	Virus	Perfect				
+War Greymon 	BT01	BT1-025 	Digimon	Red 	6	12	3	11000	Dragon Man	Vaccine	Ultimate	[During Evolution] This Digimon gains (Security Attack + 1) (The number of cards this Digimon Checks when attacking Security increases by 1) for the rest of this turn. [Your Turn] The [Security] effects of the Option cards this Digimon Checks will not activate.			/ch
+Breakdramon 	BT01	BT1-026 	Digimon	Red 	6	12	3	11000	Machine Dragon	Virus	Ultimate	[Pierce] (When this Digimon attacks and initiates a battle, if the opponent Digimon is the only Digimon destroyed in that battle, this Digimon Checks Security) 			/ch
+Armadimon 	BT01	BT1-027 	Digimon	Blue 	3	2	1	4000	Mammal	Free	Child				
+Elecmon 	BT01	BT1-028 	Digimon	Blue 	3	2	0	3000	Mammal	Data	Child				
+Gabumon 	BT01	BT1-029 	Digimon	Blue 	3	3	0	1000	Reptile	Data	Child	[During Entry] (Draw 1) (Draw 1 card from your deck) 			
+Gomamon 	BT01	BT1-030 	Digimon	Blue 	3	3	0	3000	Marine Animal	Vaccine	Child		[When Destroyed] Memory +1. 		
+Koemon 	BT01	BT1-031 	Digimon	Blue 	3	4	1	1000	Beast	Virus	Child	(Blocker) (When the opponent Digimon performs an attack, if this Digimon is in the Active position, you may Rest this Digimon and change the target of the attack to this Digimon) 			
+Yukidarumon 	BT01	BT1-032 	Digimon	Blue 	4	4	2	4000	Ice-Snow	Vaccine	Adult	(Jamming) (This Digimon cannot be destroyed in a battle with a Security Digimon) 			
+Rukamon 	BT01	BT1-033 	Digimon	Blue 	4	4	2	4000	Aquatic Mammal	Vaccine	Adult		[Your Turn] As long as there is an opponent Digimon that has no Evolution Bases, this Digimon gets +1000 DP. 		
+Ikkakumon 	BT01	BT1-034 	Digimon	Blue 	4	5	2	5000	Marine Animal	Vaccine	Adult		[Your Turn] This Digimon cannot be blocked by an opponent Digimon that has no Evolution Bases. 		
+Leomon 	BT01	BT1-035 	Digimon	Blue 	4	5	2	5000	Beast Man	Vaccine	Adult	[When Destroyed] Memory +2. 			
+Garurumon 	BT01	BT1-036 	Digimon	Blue 	4	6	2	5000	Beast	Vaccine	Adult	[During Entry] Turn 1 of your Digimon Active. 			
+Gorimon 	BT01	BT1-037 	Digimon	Blue 	4	6	1	6000	Beast Man	Data	Adult				
+Monzaemon 	BT01	BT1-038 	Digimon	Blue 	5	5	2	6000	Puppet	Vaccine	Perfect				
+Cerberumon 	BT01	BT1-039 	Digimon	Blue 	5	6	3	6000	Demon Beast	Vaccine	Perfect	[When Attacking] (Twice per Turn) By discarding 3 cards from your hand, you may turn this Digimon Active. 			
+Were Garurumon 	BT01	BT1-040 	Digimon	Blue 	5	6	3	7000	Beast Man	Vaccine	Perfect	[When Attacking] Memory +3. At the end of this turn, Memory -3. 			
+Zudomon 	BT01	BT1-041 	Digimon	Blue 	5	7	3	6000	Marine Animal	Vaccine	Perfect	[During Entry] (Draw 2) (Draw 2 cards from your deck) 	[When Attacking] If there is an opponent Digimon that has no Evolution Bases, Memory +1.		
+Loader Liomon 	BT01	BT1-042 	Digimon	Blue 	5	7	3	10000	Machine	Vaccine	Perfect				
+Saber Leomon 	BT01	BT1-043 	Digimon	Blue 	6	11	3	10000	Ancient Beast	Data	Ultimate	[During Evolution] Choose 1 opponent Digimon and discard its bottom-most 4 Evolution Bases. 			/ch
+Metal Garurumon 	BT01	BT1-044 	Digimon	Blue 	6	12	3	11000	Cyborg	Data	Ultimate	[When Attacking] Choose 1 Lv.4 and below Digimon card in this Digimon's Evolution Bases, and Enter that card as a separate Digimon without paying its Cost. 			/ch
+Tukaimon 	BT01	BT1-045 	Digimon	Yellow 	3	2	0	3000	Mammal	Virus	Child				
+Kudamon 	BT01	BT1-046 	Digimon	Yellow 	3	3	0	1000	Holy Beast	Vaccine	Child	[When Attacking] If there are 4 cards or below in your hand, (Draw 1) (Draw 1 card from your deck). 			
+Tinkermon 	BT01	BT1-047 	Digimon	Yellow 	3	3	0	3000	Fairy	Virus	Child				
+Patamon 	BT01	BT1-048 	Digimon	Yellow 	3	3	0	2000	Mammal	Data	Child	[During Entry] Reveal the top 4 cards of your deck, and add all Yellow Tamer cards among those cards to your hand. Return the remaining cards to the bottom of your deck in any order. 			
+Labramon 	BT01	BT1-049 	Digimon	Yellow 	3	3	0	1000	Beast	Vaccine	Child		[Your Turn] When an opponent Digimon's DP reaches 0, causing it to be destroyed, (Draw 1) (Draw 1 card from your deck). 		
+Liollmon 	BT01	BT1-050 	Digimon	Yellow 	3	3	0	4000	Holy Beast	Vaccine	Child				
+Reppamon 	BT01	BT1-051 	Digimon	Yellow 	4	3	2	4000	Holy Beast	Vaccine	Adult				
+Siesamon 	BT01	BT1-052 	Digimon	Yellow 	4	4	2	4000	Holy Beast	Vaccine	Adult	(Jamming) (This Digimon cannot be destroyed in a battle with a Security Digimon) 			
+Darcmon 	BT01	BT1-053 	Digimon	Yellow 	4	4	2	4000	Angel	Vaccine	Adult	[Your Turn] When your Yellow Lv.3 Digimon Enters, if this Digimon is in the Rest position, (Draw 1) (Draw 1 card from your deck). 			
+Liamon 	BT01	BT1-054 	Digimon	Yellow 	4	4	3	4000	Holy Beast	Vaccine	Adult	[When Attacking] If your Memory is 3 or above, choose 1 opponent Digimon; that Digimon gets -2000 DP for the rest of this turn. 			
+Angemon 	BT01	BT1-055 	Digimon	Yellow 	4	5	2	3000	Angel	Vaccine	Adult	[During Entry] Choose 1 opponent Digimon; that Digimon gets -3000 DP for the rest of this turn. 			
+Petermon 	BT01	BT1-056 	Digimon	Yellow 	4	5	2	5000	Fairy	Data	Adult	[During Entry] Enter 1 [Tinkermon] from your hand or Trash without paying its Cost. 			
+Sirenmon 	BT01	BT1-057 	Digimon	Yellow 	5	5	2	6000	God Man	Data	Perfect				
+Tyilinmon 	BT01	BT1-058 	Digimon	Yellow 	5	6	3	7000	Holy Beast	Vaccine	Perfect	[When Attacking] Memory +3. At the end of this turn, Memory -3. 			
+Piccolomon 	BT01	BT1-059 	Digimon	Yellow 	5	6	3	9000	Fairy	Data	Perfect				
+Holy Angemon 	BT01	BT1-060 	Digimon	Yellow 	5	7	3	6000	Archangel	Vaccine	Perfect	[During Entry] (Recovery + 1) (Deck) (Take 1 card from the top of your deck and place it onto Security) 	[Your Turn] This Digimon gets +1000 DP for every 3 cards in your Security. 		
+Mistymon 	BT01	BT1-061 	Digimon	Yellow 	5	7	3	7000	Mage Warrior	Virus	Perfect	[During Entry] Choose 2 opponent Digimon; those Digimon get -3000 DP for the rest of this turn. 			
+Slash Angemon 	BT01	BT1-062 	Digimon	Yellow 	6	11	3	8000	Power	Vaccine	Ultimate	[During Evolution] Choose 1 opponent Digimon; that Digimon gets -8000 DP for the rest of this turn. 			/ch
+Seraphimon 	BT01	BT1-063 	Digimon	Yellow 	6	12	3	10000	Seraph / Three Great Angels	Vaccine	Ultimate	[During Evolution] (Recovery + 1) (Deck) (Take 1 card from the top of your deck and place it onto Security) [Your Turn] As long as you have 3 cards or more remaining in your Security, this Digimon gains (Security Attack + 1) (The number of cards this Digimon Checks when attacking Security increases by 1).			/ch
+Goburimon 	BT01	BT1-064 	Digimon	Green 	3	2	0	3000	Oni	Virus	Child				
+Mushmon 	BT01	BT1-065 	Digimon	Green 	3	2	1	4000	Plant	Virus	Child				
+Tentomon 	BT01	BT1-066 	Digimon	Green 	3	3	0	2000	Insect	Vaccine	Child		[When Attacking] Rest 1 opponent Digimon whose DP is 3000 or below. 		
+Palmon 	BT01	BT1-067 	Digimon	Green 	3	3	0	1000	Plant	Data	Child	[During Entry] Reveal the top 3 cards of your deck, and add 1 Lv.4 Digimon card among those cards to your hand. Return the remaining cards to the bottom of your deck in any order. 			
+Kokuwamon 	BT01	BT1-068 	Digimon	Green 	3	4	1	2000	Machine	Data	Child		[Your Turn] As long as this Digimon is Lv.6 or above, it gains (Security Attack + 1) (The number of cards this Digimon Checks when attacking Security increases by 1). 		
+Orgemon 	BT01	BT1-069 	Digimon	Green 	4	4	2	4000	Oni	Virus	Adult	(Jamming) (This Digimon cannot be destroyed in a battle with a Security Digimon) 			
+Kuwagamon 	BT01	BT1-070 	Digimon	Green 	4	4	2	4000	Insect	Virus	Adult	[During Entry] Rest 1 opponent Digimon. 			
+Vegimon 	BT01	BT1-071 	Digimon	Green 	4	4	1	4000	Insectivorous Plant	Virus	Adult				
+Woodmon 	BT01	BT1-072 	Digimon	Green 	4	5	2	6000	Plant	Virus	Adult	(Blocker) (When the opponent Digimon performs an attack, if this Digimon is in the Active position, you may Rest this Digimon and change the target of the attack to this Digimon) [When Attacking] Memory -2.			
+Kabuterimon 	BT01	BT1-073 	Digimon	Green 	4	6	1	5000	Insect	Virus	Adult		[Your Turn] For every opponent Digimon in the Rest position, this Digimon gets +1000 DP. 		
+Togemon 	BT01	BT1-074 	Digimon	Green 	4	6	2	5000	Plant	Data	Adult	[During Evolution] Reveal the top 3 cards of your deck, and add 1 Lv.5 or above Digimon Card among those cards to your hand. Return the remaining cards to the bottom of your deck in any order. 			
+Digitamamon 	BT01	BT1-075 	Digimon	Green 	5	6	3	7000	Perfect	Data	Perfect	[When Attacking] Memory +3. At the end of this turn, Memory -3.			
+Atlur Kabuterimon 	BT01	BT1-076 	Digimon	Green 	5	7	2	6000	Insect	Vaccine	Perfect		[When Attacking] If there are 2 or more opponent Digimon in the Rest Position, Memory +1. 		
+Okuwamon 	BT01	BT1-077 	Digimon	Green 	5	7	2	6000	Insect	Virus	Perfect		[Your Turn] If this Digimon enters a battle and the opponent Digimon is the only Digimon destroyed, Memory +1. 		
+Jyagamon 	BT01	BT1-078 	Digimon	Green 	5	7	3	7000	Plant	Vaccine	Perfect	[When Attacking] Reveal the top 3 cards of your deck, and evolve this Digimon into 1 Lv.6 Green Digimon card among those cards without paying its Cost. Return the remaining cards to the bottom of your deck in any order. 			
+Lilimon 	BT01	BT1-079 	Digimon	Green 	5	7	2	6000	Fairy	Data	Perfect		[When Attacking] Rest 1 opponent Digimon that does not have (Blocker). 		
+Titamon 	BT01	BT1-080 	Digimon	Green 	6	10	2	12000	God Man	Virus	Ultimate				/ch
+Herakle Kabuterimon 	BT01	BT1-081 	Digimon	Green 	6	12	3	10000	Insect	Vaccine	Ultimate	(Pierce) (When this Digimon attacks and initiates a battle, if the opponent Digimon is the only Digimon destroyed in that battle, this Digimon Checks Security) [After Attacking] (Twice per Turn) You may -3 from your Memory, and turn this Digimon Active.			/ch
+Rosemon 	BT01	BT1-082 	Digimon	Green 	6	12	3	11000	Fairy	Data	Ultimate	[Opponent's Turn] When an opponent Digimon attacks a player, if this Digimon is in the Rest position, Rest 1 opponent Digimon. 			/ch
+Gran Kuwagamon 	BT01	BT1-083 	Digimon	Green 	6	13	4	11000	Insect	Free	Ultimate	(Pierce) (When this Digimon attacks and initiates a battle, if the opponent Digimon is the only Digimon destroyed in that battle, this Digimon Checks Security) [Your Turn] This Digimon gets +4000 DP.			/ch
+Omegamon 	BT01	BT1-084 	Digimon	White 	7	15	Blue/Red 6	15000	Holy Knight / Royal Knight	Vaccine	Ultimate	[During Evolution] Choose 1 opponent Digimon. Destroy all opponent Digimon with the same name as that Digimon. [When Attacking] By returning 1 Lv.6 Digimon Card in this Digimon's Evolution Bases to your hand, you may turn this Digimon Active.			/ch
+Metal Greymon 	BT01	BT1-114 	Digimon	Red 	5	8	3	9000	Cyborg	Virus	Perfect	(Security Attack + 2) (The number of cards this Digimon Checks when attacking Security increases by 2) [When Attacking] Memory -5.	[Your Turn] This Digimon gets +3000 DP.		
+V-dramon 	BT01	BT1-115 	Digimon	Blue 	4	6	3	6000	Mythical Dragon	Vaccine	Adult	[When Attacking] (Once per Turn) If you have a Tamer in play, turn this Digimon Active. 	[Both Players] Turns As long as you have a Blue Tamer in play, this Digimon gets +1000 DP. 		
+Yagami Taichi 	BT01	BT1-085 	Tamer	Red 		4						[Beginning of Your Turn] If your Memory is 2 or below, it becomes 3. [Your Turn] All of your Red Digimon that have 4 or more Evolution Bases gain (Security Attack + 1) (The number of cards this Digimon Checks when attacking Security increases by 1).		[Security] Enter this card without paying its Cost.	
+Ishida Yamato 	BT01	BT1-086 	Tamer	Blue 		4						[Beginning of Your Turn] If your Memory is 2 or below, it becomes 3. [Your Turn] When your Blue Digimon Enters, you may Rest this Tamer; if you do, choose 1 opponent Digimon and discard its bottom-most Evolution Base.		[Security] Enter this card without paying its Cost.	
+Takaishi Takeru 	BT01	BT1-087 	Tamer	Yellow 		4						[Beginning of Your Turn] If your Memory is 2 or below, it becomes 3. [During Entry] Check all of the contents of your Security, reveal 1 card from your Security and add it to your hand. If that card is a Yellow card, (Recovery + 1) (Deck) (Take 1 card from the top of your deck and place it onto Security). After that, shuffle your Security.		[Security] Enter this card without paying its Cost.	
+Izumi Koshiro 	BT01	BT1-088 	Tamer	Green 		2						[Main] If you have a Lv.5 or above Green Digimon in play, you may Rest this Tamer and reveal the top card of your deck. If that card is a Digimon card, add it to your hand. Return any remaining card to the bottom of your deck.		[Security] Enter this card without paying its Cost.	
+Tachikawa Mimi 	BT01	BT1-089 	Tamer	Green 		4						[Beginning of Your Turn] If your Memory is 2 or below, it becomes 3. [Main] If you have a Lv.5 or above Green Digimon in play, you may Rest this Tamer and either hatch 1 Digitama Card if your Raising Area is empty, or move 1 Lv.3 or above Digimon in your Raising Area to the Battle Area.		[Security] Enter this card without paying its Cost.	
+Gravity Press 	BT01	BT1-090 	Option	Red 		0						[Main] Memory +2. At the end of this turn, Memory -2.			
+Scrapless Claw 	BT01	BT1-091 	Option	Red 		3						[Main] Choose 1 of your Digimon; that Digimon gains (Pierce) (When this Digimon attacks and initiates a battle, if the opponent Digimon is the only Digimon destroyed in that battle, this Digimon Checks Security) for the rest of this turn.			
+Nuclear Laser 	BT01	BT1-092 	Option	Blue 		3						[Main] Draw 2 (Draw 2 cards from your deck). After that, choose 1 of your Digimon; that Digimon gets +2000 DP for the rest of this turn.			
+Brave Tornado 	BT01	BT1-093 	Option	Red 		3						[Main] Choose one of your Digimon; that Digimon gets +2000 DP and gains (Security Attack + 1) (The number of cards this Digimon Checks when attacking Security increases by 1) for the rest of this turn.		[Security] Add this card to your hand.	
+Oblivion Bird 	BT01	BT1-094 	Option	Red 		5						[Main] Destroy 1 opponent Digimon that has (Blocker).		[Security] Activate this card's [Main] effect.	
+Brave Shield 	BT01	BT1-095 	Option	Red 		5						[Main] Turn 1 of your Digimon Active. That Digimon gains (Blocker) (When the opponent Digimon performs an attack, if this Digimon is in the Active position, you may Rest this Digimon and change the target of the attack to this Digimon) until the end of the opponent's next turn.		[Security] Turn 1 of your Digimon Active. That Digimon gains (Blocker) (When the opponent Digimon performs an attack, if this Digimon is in the Active position, you may Rest this Digimon and change the target of the attack to this Digimon) for the rest of this turn.	
+Hellfire 	BT01	BT1-096 	Option	Blue 		1						[Main] Choose 1 of your Digimon; that Digimon gets +3000 DP for the rest of this turn. 		[Security] (Draw 1) (Draw 1 card from your deck). After that, add this card to your hand. 	
+Boring Storm 	BT01	BT1-097 	Option	Blue 		1						[Main] (Draw 1) (Draw 1 card from your deck) 		[Security] (Draw 2) (Draw 2 cards from your deck)	
+V-Breath Arrow 	BT01	BT1-098 	Option	Blue 		2						[Main] Choose 1 of your Digimon; that Digimon gains (Jamming) (This Digimon cannot be destroyed in a battle with a Security Digimon) for the rest of this turn. 		[Security] Add this card to your hand.	
+Lovely Attack 	BT01	BT1-099 	Option	Blue 		3						[Main] Choose 1 opponent Digimon and discard all of its Evolution Bases. 			
+Grace Cross Freezer 	BT01	BT1-100 	Option	Blue 		4						[Main] Opponent Digimon that have no Evolution Bases cannot attack until the end of the opponent's next turn. 		[Security] Opponent Digimon that have no Evolution Bases cannot attack for the rest of this turn. 	
+Nail Crusher 	BT01	BT1-101 	Option	Blue 		7						[Main] Discard all Evolution Bases on all opponent Digimon. 		[Security] Activate this card's [Main] effect. 	
+Holy Espada 	BT01	BT1-102 	Option	Yellow 		2						[Main] For every 2 cards in your Security, (Draw 1) (Draw 1 card from your deck). 		[Security] Activate this card's [Main] effect. 	
+Testament 	BT01	BT1-103 	Option	Yellow 		3						[Main] Choose one of your Digimon; that Digimon gains (Blocker) (When the opponent Digimon performs an attack, if this Digimon is in the Active position, you may Rest this Digimon and change the target of the attack to this Digimon) until the end of the opponent's next turn. 		[Security] (Draw 1) (Draw 1 card from your deck). After that, add this card to your hand. 	
+Heaven's Ripper 	BT01	BT1-104 	Option	Yellow 		3						[Main] All of your Digimon gain [When Attacking Choose 1 opponent Digimon; that Digimon gets -2000 DP for the rest of this turn.]. 			
+Blast Fire 	BT01	BT1-105 	Option	Yellow 		4						[Main] Choose 1 opponent Digimon; that Digimon's base DP becomes 3000 until the end of the opponent's next turn. 			
+No.1 <<Polyphony>> 	BT01	BT1-106 	Option	Yellow 		5						[Main] Choose 1 opponent Digimon; that Digimon gets -7000 DP for the rest of this turn. 			
+Kaishin no Hadou 	BT01	BT1-107 	Option	Yellow 		6						[Main] (Recovery + 1) (Deck) (Take 1 card from the top of your deck and place it onto Security) 		[Security] Activate this card's [Main] effect. 	
+Horn Buster 	BT01	BT1-108 	Option	Green 		1						[Main] Choose 1 of your Digimon; that Digimon gets +3000 DP for the rest of this turn. 		[Security] Rest 1 opponent Digimon. After that, add this card to your hand. 	
+Smash Potato 	BT01	BT1-109 	Option	Green 		2						[Main] The next time you evolve your Green Digimon from Lv.5 to Lv.6 during this turn, reduce the Evolution Cost by 4. 			
+Flow' Cannon 	BT01	BT1-110 	Option	Green 		2						[Main] Rest 1 opponent Digimon. 		[Security] Rest all opponent Digimon that do not have (Blocker). 	
+Giga Blaster 	BT01	BT1-111 	Option	Green 		3						[Main] Rest 1 opponent Digimon, or 2 opponent Digimon whose DP is 5000 or below. 		[Security] Activate this card's [Main] effect. 	
+Dimension Scissor 	BT01	BT1-112 	Option	Green 		3						[Main] Choose 1 of your Digimon; that Digimon gains the Effect [If this Digimon enters a battle and the opponent Digimon is the only Digimon destroyed, turn this Digimon Active.] for the rest of this turn. 		[Security] Add this card to your hand. 	
+Forbidden Temptation 	BT01	BT1-113 	Option	Green 		4						[Main] Choose 1 opponent Digimon; that Digimon cannot attack or block until the end of the opponent's next turn. 		[Security] All opponent Digimon will not turn Active during the opponent's next Active Phase. 	
+War Greymon (1)	BT01	BT1-025P	Digimon	Red 	6	12	3	11000	Dragon Man	Vaccine	Ultimate	[During Evolution] This Digimon gains (Security Attack + 1) (The number of cards this Digimon Checks when attacking Security increases by 1) for the rest of this turn. [Your Turn] The [Security] effects of the Option cards this Digimon Checks will not activate.			/ch
+Metal Garurumon (1)	BT01	BT1-044P	Digimon	Blue 	6	12	3	11000	Cyborg	Data	Ultimate	[When Attacking] Choose 1 Lv.4 and below Digimon card in this Digimon's Evolution Bases, and Enter that card as a separate Digimon without paying its Cost. 			/ch
+Holy Angemon (1)	BT01	BT1-060P	Digimon	Yellow 	5	7	3	6000	Archangel	Vaccine	Perfect	[During Entry] (Recovery + 1) (Deck) (Take 1 card from the top of your deck and place it onto Security) 	[Your Turn] This Digimon gets +1000 DP for every 3 cards in your Security. 		
+Rosemon (1)	BT01	BT1-082P	Digimon	Green 	6	12	3	11000	Fairy	Data	Ultimate	[Opponent's Turn] When an opponent Digimon attacks a player, if this Digimon is in the Rest position, Rest 1 opponent Digimon. 			/ch
+Gran Kuwagamon (1)	BT01	BT1-083P	Digimon	Green 	6	13	4	11000	Insect	Free	Ultimate	(Pierce) (When this Digimon attacks and initiates a battle, if the opponent Digimon is the only Digimon destroyed in that battle, this Digimon Checks Security) [Your Turn] This Digimon gets +4000 DP.			/ch
+Omegamon (1)	BT01	BT1-084P	Digimon	White 	7	15	Blue/Red 6	15000	Holy Knight / Royal Knight	Vaccine	Ultimate	[During Evolution] Choose 1 opponent Digimon. Destroy all opponent Digimon with the same name as that Digimon. [When Attacking] By returning 1 Lv.6 Digimon Card in this Digimon's Evolution Bases to your hand, you may turn this Digimon Active.			/ch
